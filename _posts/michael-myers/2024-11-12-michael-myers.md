@@ -4,7 +4,7 @@ date: 2024-11-12 8:55:47 +07:00
 modified: 2024-11-12 8:55:47 +07:00
 tags: [horror, movies]
 description: Michael Myers
-image: "/michael-myers/michael.jpg"
+image: "/michael-myers/michael.png"
 ---
 
 # Michael Myers
