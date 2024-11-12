@@ -1,5 +1,9 @@
 ---
 title: Michael Myers
+date: 2024-11-12 8:55:47 +07:00
+modified: 2024-11-12 8:55:47 +07:00
+tags: [horror, movies]
+description: Michael Myers
 image: "/michael-myers/michael.jpg"
 ---
 
@@ -56,11 +60,4 @@ Y muchas otras películas que exploran su historia y sus asesinatos.
 
 ---
 
-## Referencias
-
-- [Michael Myers en IMDb](https://www.imdb.com)
-- [Halloween Franchise Wiki](https://halloween-franchise.fandom.com)
-- [Michael Myers en Cultura Pop](https://www.culturapop.com/michael-myers)
-
-
-<a href="https://youtu.be/UGsHormbC7Y?si=AK9YwXJEEG916Ydl" target="_blank" rel="noopener">Dulu</a>
+<a href="https://youtu.be/UGsHormbC7Y?si=AK9YwXJEEG916Ydl" target="_blank" rel="noopener">Historia de Myers</a>
