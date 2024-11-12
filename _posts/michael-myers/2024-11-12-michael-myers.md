@@ -7,6 +7,10 @@ description: Michael Myers
 image: "/michael-myers/michael.png"
 ---
 
+<figure>
+<img src="/michael-myers/michael.png" alt="Michael Myers">
+</figure>
+
 # Michael Myers
 
 Michael Myers es uno de los personajes más famosos del género de terror, conocido por su papel en la franquicia de películas de *Halloween*, creada por **John Carpenter**. Su primera aparición fue en la película *Halloween* de 1978, y desde entonces ha sido una figura recurrente en el cine de terror.
